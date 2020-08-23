@@ -7,7 +7,7 @@ Towards enhancements:
 1. Move interest functions into a signular class.
 2. Move Reports into thier own derived class.
 3. Create Menu for loop back capabilities.
-Above enhancements would make for a good base app that would all for new function creation.
+Above enhancements would make for a good base app that would allow for new function creation.
 -> Expense/Bill calculations and potentual expendable funds for investing further.
 -> Saving Goal Functions. (Save how much for how long to get to X amount)
 
